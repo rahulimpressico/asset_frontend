@@ -1,0 +1,86 @@
+.login_background{
+    /* background-color: #71ade3; */
+    background-color: #ddd;
+    background-repeat: no-repeat;
+    height: 936px;
+    
+}
+
+
+
+.card_bg{
+    /* background-color: #1a1c29; */
+    background-color: #eee;
+    margin-top: 165px;
+    margin-bottom: 190px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    /* box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px; */
+    /* box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    
+
+    
+   
+}
+
+.form{
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 70px;
+    margin-top: 20px;
+    color: black;
+    font-size: large;    
+}
+
+
+
+  
+  .no-outline:focus {
+    outline: none;
+  }
+
+
+
+
+.fc{
+    padding-top: 11px;
+    padding-bottom:11px;
+    border-radius: 5px;
+}
+
+
+/* button{
+    background:#124885 !important;
+} */
+
+
+/* button:hover{
+    background: #0b3769 !important;
+} */
+
+button:hover{
+    background: #1c7308 !important;
+}
+
+
+
+
+
+/* @media screen and (min-width: 600px) {
+
+    .form{
+        padding-top: 10px !important;
+        padding-left: 10px;
+        padding-right: 60px;
+        padding-bottom: 70px;
+        margin-top: 20px;
+        color: black;
+        font-size: large;    
+    }
+
+    
+    
+  } */
